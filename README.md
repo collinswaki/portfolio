@@ -18,6 +18,8 @@ _There are no known bugs, there could be some improvements in the design_
 
 ## Support and contact details
 
+_The files are located on [Github](https://github.com/collinswaki/portfolio)_
+
 _If there are any issues with the webpage, please reach out directly too me - collins.waki@gmail.com_
 
 ## Languages Used
